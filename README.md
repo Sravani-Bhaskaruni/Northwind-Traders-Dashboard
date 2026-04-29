@@ -3,4 +3,5 @@
 
 6. Demos
    https://github.com/Sravani-Bhaskaruni/Northwind-Traders-Dashboard/blob/main/Screenshot%20Northwind%20Traders%20Page%201.png
+   Screenshot Northwind Traders Page 1.png
 
